@@ -1,6 +1,1 @@
-# hello-world
-First repository
-
-Hi....
-I'm learning python :) :)
-
+# Endeavour OS config files
